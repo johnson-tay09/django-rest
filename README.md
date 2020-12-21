@@ -8,3 +8,17 @@ Set up a project in Django. Create a blog website using Models. Make sure it has
 
 ### Pull Request
 lab30 PR [https://github.c](https://github.com/johnson-tay09/django-crud/pull/1)
+aadadsadsffa
+asfd
+adfs
+asdf
+fads
+afsd
+fasd
+afsd
+afds
+fads
+fdas
+fdas
+fad
+dafs
