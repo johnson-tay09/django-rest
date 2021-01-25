@@ -7,4 +7,4 @@ Use Django to make a full CRUD web app using Docker.
 Set up a project in Django. Create a blog website using Models. Make sure it has full CRUD capabilities. Test your code. Use Docker.
 
 ### Pull Request
-lab30 PR [https://github.c](https://github.com/johnson-tay09/django-crud/pull/1)
+lab30 PR [https://github.c](https://github.com/johnson-tay09/django-rest/pull/1)
